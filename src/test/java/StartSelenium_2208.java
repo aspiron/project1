@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class StartSelenium {
+public class StartSelenium_2208 {
     WebDriver wd;
     @BeforeMethod
     public void setUp(){
